@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        binding.tvHello.text = "Hello, Wellington"
+        //binding.tvHello.text = "Hello, Wellington"
 
 
     }
